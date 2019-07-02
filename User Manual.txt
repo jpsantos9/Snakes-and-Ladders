@@ -1,0 +1,20 @@
+\nWelcome to Snakes & Ladders: Programmed in C
+\n
+\nThis Snakes & Ladders game, programmed in C, allows 4 players to play against each other. In the case that there is only \none player, the program will then assign 3 CPU players. In addition, the program also allows the user to modify the \nboard  by changing the placement of the snakes and ladders. Note that the user is only allowed to modify the placement \nof the snakes or ladders and not the dimensions of the board. Doing so will render the program unplayable.
+
+HOW TO PLAY THE GAME
+1. Type "1" and press enter to begin the game. (Otherwise, type "2" and press enter to quit the game)
+
+2. Input the number of players (1-4) and press enter. Again, if the user chooses to play alone, there will be 3 CPU players.
+
+3. The game will then ask for the players to input their tokens. The players can choose any character or symbol found in the keyboard. However, it is not recommended that the user picks "S" or "L" as their tokens because it may conflict with the letters that represent the snakes and ladders.
+
+4. Once that is all set, just click enter to progress through every turn.
+
+
+HOW TO MODIFY THE BOARD
+1. In the folder where the program is located, find the text file labeled as board.txt
+
+2. Open the file.
+
+3. In the file, you will find the board with the preset locations of the snakes and ladders. Simply change the locations of the "S", "Z", or "s" and "L", "l", or "I". Dont forget to fill in the underscores. 
